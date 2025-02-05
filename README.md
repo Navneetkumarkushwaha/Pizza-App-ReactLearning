@@ -1,7 +1,10 @@
 # React Web Application
 
 ## Overview
+
 This is Simple Small Pizza Application.
+##Link
+https://velvety-syrniki-1a9e7a.netlify.app/
 
 ## Images
 
@@ -10,10 +13,12 @@ This is Simple Small Pizza Application.
 ## Installation
 
 ### Prerequisites
+
 - Node.js (>= 14.x)
 - npm or yarn
 
 ### Steps
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/Navneetkumarkushwaha/Pizza-App-ReactLearning.git
@@ -32,11 +37,15 @@ This is Simple Small Pizza Application.
    ```
 
 ## Running the Application
+
 To start the development server, run:
+
 ```sh
 npm start
 ```
+
 or
+
 ```sh
 yarn start
 ```
@@ -44,25 +53,32 @@ yarn start
 This will start the app in development mode, and it will be accessible at `http://localhost:3000/`.
 
 ## Build for Production
+
 To create a production build, run:
+
 ```sh
 npm run build
 ```
+
 or
+
 ```sh
 yarn build
 ```
 
 ## Deployment
+
 You can deploy this application using services like Vercel, Netlify, or GitHub Pages.
 
 ## Technologies Used
+
 - React
 - [Other libraries/frameworks used]
 
 ## License
+
 This project is licensed under the [Your License] License.
 
 ## Contact
-For any inquiries, contact [your-email@example.com] or visit [your-website].
 
+For any inquiries, contact [your-email@example.com] or visit [your-website].
