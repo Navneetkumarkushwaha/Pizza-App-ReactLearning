@@ -81,4 +81,4 @@ This project is licensed under the [Your License] License.
 
 ## Contact
 
-For any inquiries, contact [your-email@example.com] or visit [your-website].
+For any inquiries, contact (navneet05082002kushwaha@gmail.com) or visit [your-website].
